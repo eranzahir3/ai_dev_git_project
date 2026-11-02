@@ -1,1 +1,1 @@
-print("hello world")instal
+print("hello world2")
